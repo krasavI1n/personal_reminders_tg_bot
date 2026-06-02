@@ -57,6 +57,10 @@ python main.py
 - Просмотра всех задач
 - Редактирования и завершения задач
 
+## Автор
+
+Nikita Krasavin (southevil1337@gmail.com)
+
 ## Лицензия
 
 MIT License. См. файл [LICENSE](LICENSE).
